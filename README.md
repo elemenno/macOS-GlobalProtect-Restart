@@ -1,0 +1,1 @@
+# macOS-GlobalProtect-Restart
